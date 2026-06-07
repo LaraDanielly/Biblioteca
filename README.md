@@ -107,4 +107,4 @@ Composição
 A classe `Locadora` não herda de ninguém, mas contém listas de objetos `Livro`, `Filme` e `Cliente`, compondo um sistema completo a partir de partes menores.
 ---
 Autores
-Desenvolvido como projeto acadêmico de Programação Orientada a Objetos por Letícia Lacerda, Arthur Batalha e Lara
+Desenvolvido como projeto acadêmico de Programação Orientada a Objetos por Letícia Lacerda, Arthur Batalha e Lara Daniely
